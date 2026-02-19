@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://ns-ecom-studios-2.myshopify.com/",
+      "permanent": true
+    }
+  ]
+}
